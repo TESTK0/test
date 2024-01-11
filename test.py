@@ -1,2 +1,4 @@
-print("Hello World")
-print("try pr")
+def main():
+    print("main function")
+    print("Master branch")
+main()
